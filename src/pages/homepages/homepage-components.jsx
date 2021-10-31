@@ -5,8 +5,6 @@ import MenuItem from '../../components/menu-item/menu-item.component';
 const HomePage = () => (
     <div className="homepage">
         <Directory /> 
-          
-
         </div>
   
 );
